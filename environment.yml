@@ -1,0 +1,9 @@
+name: khpi-big-data-lab-5
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - biopython=1.85
+  - folium=0.19
+  - matplotlib=3.10
+  - notebook=7
